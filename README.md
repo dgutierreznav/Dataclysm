@@ -13,6 +13,48 @@
 - **Gestió d'hotels:** El sistema permet gestionar hotels, habitacions, reserves, clients, treballadors i serveis associats.
 - **Còpies de seguretat i restauració:** El sistema realitza còpies de seguretat periòdiques de la base de dades i permet restaurar-les fàcilment.
 
+---
+
+## Estructura del proyecto (resum)
+
+Árbol de archivos y carpetas principales:
+
+```
+Dataclysm
+├── /Images
+│   └── logo_data.png
+├── /Modelo Entidad-Relación
+│   └── creacion_tablas.sql
+│   └── esquema.jpg
+│   └── modelo_realacional.md
+├── /esquema_alta_seguridad
+│   └── SSL.md 
+│   └── crear_roles.sql
+│   └── datamasking.md
+│   └── trigger_borrar_datos.sql
+├── /esquema_gran_seguridad             
+│   └── Backups.md
+│   └── nodos_activo_pasivo.md
+│   └── infraestructura_deseada.md
+├── /programa_py
+│   └── admin_menu.py
+│   └── block_login.py
+│   └── check_in.py
+│   └── check_out.py
+│   └── consultas_informes.py
+│   └── credenciales.py
+│   └── db_connection.oy
+│   └── exportacion.py
+│   └── gestion_hoteles.py
+│   └── gestion_personal.py
+│   └── gestion_reservas.py
+│   └── login.txt
+│   └── main.py
+│   └── main.spec
+│   └── mossos_apu.py
+ 
+```
+
 ## Arquitectura del sistema
 
 ```
