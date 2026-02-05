@@ -89,10 +89,10 @@ Aquest projecte es distribueix sota la llicència MIT.
 
 ## Membres del projecte
 
-- **Oleguer Esteo** (jo)
+- **David Gutierrez**
+- **Oleguer Esteo**
 - **Sergi Gallart**
 - **Eder Aira**
-- **David Gutierrez**
 
 ## Enllaços ràpids al repositori
 
