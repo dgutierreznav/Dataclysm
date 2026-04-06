@@ -131,10 +131,10 @@ Aquest projecte es distribueix sota la llicència MIT.
 
 ## Membres del projecte
 
-- **David Gutierrez**
-- **Oleguer Esteo**
-- **Sergi Gallart**
-- **Eder Aira**
+- [David Gutierrez](https://davidgutierrez.es/)
+- [Oleguer Esteo](https://olegueresteo.es/)
+- [Sergi Gallart](https://sergigallart.es/)
+- Eder Aira
 
 ## Enllaços ràpids al repositori
 
