@@ -36,22 +36,22 @@ Dataclysm
 │   └── Backups.md
 │   └── nodos_activo_pasivo.md
 │   └── infraestructura_deseada.md
-├── /programa_py
-│   └── admin_menu.py
-│   └── block_login.py
-│   └── check_in.py
-│   └── check_out.py
-│   └── consultas_informes.py
-│   └── credenciales.py
-│   └── db_connection.oy
-│   └── exportacion.py
-│   └── gestion_hoteles.py
-│   └── gestion_personal.py
-│   └── gestion_reservas.py
-│   └── login.txt
-│   └── main.py
-│   └── main.spec
-│   └── mossos_apu.py
+└── /programa_py
+    └── admin_menu.py
+    └── block_login.py
+    └── check_in.py
+    └── check_out.py
+    └── consultas_informes.py
+    └── credenciales.py
+    └── db_connection.oy
+    └── exportacion.py
+    └── gestion_hoteles.py
+    └── gestion_personal.py
+    └── gestion_reservas.py
+    └── login.txt
+    └── main.py
+    └── main.spec
+    └── mossos_apu.py
  
 ```
 
