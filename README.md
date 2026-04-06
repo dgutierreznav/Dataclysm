@@ -133,7 +133,7 @@ Aquest projecte es distribueix sota la llicència MIT.
 
 - [Oleguer Esteo](https://olegueresteo.es/)   
 - [Sergi Gallart](https://sergigallart.es/)
-- [David Gutierrez](https://davidgutierrez.es/)
+- [David Gutiérrez](https://davidgutierrez.es/)
 
 ## Enllaços ràpids al repositori
 
