@@ -21,22 +21,22 @@
 
 ```
 Dataclysm
-├── /Images
+├── Images/
 │   └── logo_data.png
-├── /Modelo Entidad-Relación
+├── Modelo Entidad-Relación/
 │   └── creacion_tablas.sql
 │   └── esquema.jpg
 │   └── modelo_realacional.md
-├── /esquema_alta_seguridad
+├── esquema_alta_seguridad/
 │   └── SSL.md 
 │   └── crear_roles.sql
 │   └── datamasking.md
 │   └── trigger_borrar_datos.sql
-├── /esquema_gran_seguridad             
+├── esquema_gran_seguridad/
 │   └── Backups.md
 │   └── nodos_activo_pasivo.md
 │   └── infraestructura_deseada.md
-└── /programa_py
+└── programa_py/
     └── admin_menu.py
     └── block_login.py
     └── check_in.py
