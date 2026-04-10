@@ -1,8 +1,6 @@
 # Dataclysm
 <img src="https://github.com/darken13/Dataclysm/blob/main/Images/logo_data.png" alt="Dataclysm Logo" width="200"/>
 
-# Dataclysm
-
 **Dataclysm** és un gestor d'hotels desenvolupat com a projecte intermodular, pensat per facilitar la gestió d'establiments hotelers de manera eficient i segura.
 
 ## Característiques principals
